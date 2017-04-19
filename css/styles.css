@@ -1,0 +1,13 @@
+.column{
+  width: 30%;
+  float: left;
+}
+img{
+  width: 100%;
+}
+.middle {
+  margin: 0 5%;
+}
+.header{
+  text-align: center;
+}
