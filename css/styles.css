@@ -11,3 +11,12 @@ img{
 .header{
   text-align: center;
 }
+.before {
+background-color: #ccc;
+}
+.during {
+  background-color: #ddd;
+}
+.after{
+  background-color: #eee;
+}
